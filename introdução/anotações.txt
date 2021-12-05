@@ -1,0 +1,15 @@
+Links utéis
+
+código para criar arquivos git
+
+echo > +nomedoarquivo  //ps não é necessário por o sinal de +
+
+mkdir +nomedapasta //ps não é necessário por o sinal de +
+
+cd = navegar pastas
+cd .. = voltar um nível
+Ctrl+ L = limpar terminal
+Ls = listar arquivos
+Ls -a = listar arquivos ocultos
+Mu = mover
+git status = identifica as movimentações no repositório
